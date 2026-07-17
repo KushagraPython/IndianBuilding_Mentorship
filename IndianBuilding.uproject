@@ -30,6 +30,10 @@
 		{
 			"Name": "ProceduralVegetationEditor",
 			"Enabled": true
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
 		}
 	]
 }
